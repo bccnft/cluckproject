@@ -1,0 +1,42 @@
+{
+  "name": "Lehondro",
+  "symbol": "CLUCK",
+  "description": "No plan just goals! Art! Fun! Community! On a mission to replace foul language with fowl language one cluck at a time!",
+  "seller_fee_basis_points": 600,
+  "image": "https://github.com/bccnft/cluckproject/blob/main/996.JPG?raw=true",
+  "external_url": "",
+  "edition": 996,
+  "collection": {
+    "name": "Cluck Project",
+    "family": ""
+  },
+  "attributes": [
+    {
+      "trait_type": "Custom",
+      "value": "Yes"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/bccnft/cluckproject/blob/main/996.JPG?raw=true",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6PLg39hnKYTWTvGrcu8Ejm7Xvc79damxKzfxkfzLrADX",
+        "share": 68
+      },
+      {
+        "address": "FYG7dcRmWt6r4zWoQmUnKKKE7Fod3CP6qa55pLvR3L8m",
+        "share": 16
+      },
+      {
+        "address": "HR7JpBwCn6dta7Ym36HkHuacLEgbe9gcgazpNtJZFGH1",
+        "share": 16
+      }
+    ]
+  }
+}
